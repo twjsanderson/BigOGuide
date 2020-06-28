@@ -4,7 +4,7 @@
 How the runtime scales with respect to some input variables. 
 An equation that expresses how the runtime scales or changes. 
 
-## 4 Rules
+## 4 Rulesfdas
 
 1) Different steps added together (the amount of time it takes to get through all steps)
 2) Drop constants 
